@@ -9,7 +9,7 @@ highlighter: pygments
 paginate: 20
 post_assets: images
 general_assets: images
-bio: "Hello, I am a student at Doctor Challoners Grammar School. I have been here for nearly 1 year and am loving it!"
+bio: "Hello, I am a student at Doctor Challoners Grammar School. I have been here for nearly 1 year and I am loving it!"
 email: nathan.davies@challoners.org
 markdown: rdiscount
 rdiscount:
